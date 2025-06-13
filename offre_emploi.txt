@@ -1,0 +1,36 @@
+# Offre d'emploi : Analyste de Données Junior
+
+**Entreprise :** Tech Solutions Inc.
+**Lieu :** Paris, France
+**Type de contrat :** CDI
+
+**Description du poste :**
+Nous recherchons un Analyste de Données Junior passionné et motivé pour rejoindre notre équipe en pleine croissance. Vous travaillerez en étroite collaboration avec les équipes marketing et produit pour transformer les données brutes en informations exploitables et aider à la prise de décision stratégique.
+
+**Missions principales :**
+*   Collecter, nettoyer et préparer les données provenant de diverses sources.
+*   Analyser les ensembles de données pour identifier les tendances, les modèles et les insights.
+*   Créer des tableaux de bord et des visualisations de données claires et pertinentes (par exemple avec Tableau ou Power BI).
+*   Présenter les résultats des analyses aux parties prenantes.
+*   Participer à l'amélioration continue des processus de collecte et d'analyse de données.
+*   Effectuer des requêtes SQL pour extraire des données des bases de données.
+
+**Profil recherché :**
+*   Diplôme universitaire (Bac+4/5) en statistiques, mathématiques, informatique, économie ou domaine connexe.
+*   Première expérience (stage inclus) en analyse de données souhaitée.
+*   Bonne maîtrise de SQL pour l'interrogation de bases de données.
+*   Connaissance d'un langage de programmation pour l'analyse de données (Python ou R).
+*   Familiarité avec les outils de visualisation de données (Tableau, Power BI, Matplotlib, Seaborn).
+*   Excellentes compétences analytiques et capacité à résoudre des problèmes.
+*   Bonnes compétences en communication écrite et orale.
+*   Esprit d'équipe et curiosité.
+
+**Compétences techniques souhaitées :**
+*   SQL
+*   Python (avec Pandas, NumPy, Scikit-learn)
+*   Excel avancé
+*   Outils BI (Tableau, Power BI)
+*   Statistiques descriptives
+
+**Pour postuler :**
+Envoyez votre CV et lettre de motivation à recrutement@techsolutions.inc
